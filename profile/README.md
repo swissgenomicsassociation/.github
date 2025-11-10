@@ -1,6 +1,6 @@
 ## Swiss Genomics Association
 
-This readme is found at `.swissgenomicsassociation/README.md`.
+This readme is found at `.github/profile/README.md`.
 
 The **Swiss Genomics Association** is a national collaboration of volunteer experts from academia, hospitals, government, and industry.
 Our goal is to define **open, evidence-based standards** for the responsible use of genomics in human health, precision medicine, and research.
@@ -37,10 +37,10 @@ Pull requests are the **recommended way to contribute**. In some cases, core con
 ### Join our GitHub organisation
 
 Members who need organisation access can request it by emailing  
-**admin@swissgenomicsassociation.ch** with their **GitHub username or account email**.
+**admin (at) swissgenomicsassociation (dot) ch** with their **GitHub username or account email**.
 
 **How it works**
-1. Email your details to **admin@swissgenomicsassociation.ch**
+1. Email your details to **admin (at) swissgenomicsassociation (dot) ch**
 2. We invite you via **GitHub → organisation → People → Invite member**
 3. Accept the invitation in your email or GitHub notifications  
 Invitations expire after 7 days and can be reissued if needed.
