@@ -1,6 +1,17 @@
-## Swiss Genomics Association
+# Swiss Genomics Association
 
-This readme is found at `.github/profile/README.md`.
+<https://www.swissgenomicsassociation.ch>
+
+**Shared standards for collective health.**
+
+Experts from across Switzerland working together to define open, evidence-based guidelines for genomics in health, research, and national practice.
+
+* Deutsch: Schweizerische Genomik-Vereinigung
+* Français: Association Suisse de Génomique
+* Italiano: Associazione Svizzera di Genomica
+* English: Swiss Genomics Association
+
+## About
 
 The **Swiss Genomics Association** is a national collaboration of volunteer experts from academia, hospitals, government, and industry.
 Our goal is to define **open, evidence-based standards** for the responsible use of genomics in human health, precision medicine, and research.
@@ -54,3 +65,6 @@ Invitations expire after 7 days and can be reissued if needed.
 
 Some projects may also support collaboration via **Overleaf**, or through **shared editing, meetings and email** where suitable.
 
+---
+
+This readme is found at `.github/profile/README.md`.
