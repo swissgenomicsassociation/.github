@@ -59,6 +59,15 @@ Example:
 
 ---
 
+## Writing and syncing releases
+
+All Swiss Genomics Association projects are developed in separate repositories under the organisation domain (<https://github.com/swissgenomicsassociation>), each producing versioned outputs such as manuscripts, datasets, or configuration files. The main website (`swissgenomicsassociation.github.io`) hosts the latest public releases from these projects and gets directed to <https://www.swissgenomicsassociation.ch>. During the site build, the `sync_releases.sh` script automatically copies current release files from their respective repositories into the website `assets/release/` directory, making them directly accessible for viewing or download, for example:
+`https://swissgenomicsassociation.github.io/assets/release/mendelian_disease_interpretation/latest/mendelian_disease_interpretation_v1.pdf`.
+
+Thus to write new release content, the main article will be developed in the organisation repo - not in the actual website repo, release page, or assets directory. For instance see <https://github.com/swissgenomicsassociation/sga_qem> which is then synced to the release page via latest assets. Only pages with supporting "about" information and website content are developed directly in the website repository by the web admin.
+
+---
+
 ## Technical info for git users
 ### Join our GitHub organisation
 
